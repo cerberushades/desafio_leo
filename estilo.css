@@ -15,7 +15,7 @@ input {
     background-color: lightgray;
 }
 
-#container-meus-cursos {
+#container-meus-cursos, #contato-redes {
     margin-left: 60px;
     margin-right: 60px;
 }
@@ -36,3 +36,20 @@ input {
 .card img{
     width: 100%;
 }
+
+#contato-redes{
+    display: flex;
+}
+
+#logo-mensagem {
+    width: 60%;
+}
+
+#contato, #redes-sociais {
+    width: 20%;
+}
+
+footer {
+    background-color: lightgray;
+}
+
