@@ -1,0 +1,7 @@
+h1 {
+    float: left
+}
+
+input, div {
+    float: right;
+}
