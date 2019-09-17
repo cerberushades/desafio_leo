@@ -16,14 +16,21 @@ input {
 }
 
 #container-meus-cursos {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between; 
 }
 
 .card {
     border: solid 2px black;
     width: 250px;
     height: 350px;
+    margin: 20px;
 }
 
 .card img{
