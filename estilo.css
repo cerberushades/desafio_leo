@@ -1,7 +1,8 @@
-h1 {
+nav h1 {
     float: left
 }
 
-input, div {
+input {
     float: right;
 }
+
